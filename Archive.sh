@@ -9,7 +9,7 @@ compare_etag() {
     if [[ "$etag" != "$stored_etag" ]]; then
         echo "Downloading $url..."
         new_etag=$(curl -sI "$url" | grep -i "etag" | awk -F'"' '{print $2}')
-        jq --arg url "$url" --arg val "$new_etag" '.[$url] = $val' Etag.json > temp.json && mv temp.json Etag.json
+        sed -i "s/\(\"\)$url\(\":\)[^,}]\+\(,\)/\1$url\2\"$new_etag\"\3/" Etag.json
         curl -s -O "$url"
     else
         echo "No update available for $url"
