@@ -2,7 +2,7 @@ name: Check Fortnite Content
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 jobs:
