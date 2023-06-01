@@ -4,14 +4,15 @@
 compare_etag() {
     local url=$1
     local etag=$2
-    local stored_etag=$(jq -r ".$url" Etag.json)
+    local stored_etag=$(cat Etag.json | jq -r ".$url")
+
     echo "URL: $url"
     echo "ETag: $etag"
     echo "Stored ETag: $stored_etag"
 
     if [[ "$etag" != "$stored_etag" ]]; then
         echo "Downloading $url..."
-        curl -sI $url | grep -i "etag" | awk -F'"' '{print $2}' | jq -R '.' | jq -c -r ". as \$val | {\"$url\": \$val}" >> Etag.json
+        curl -sI $url | grep -i "etag" | awk -F'"' '{print $2}' | jq -R '.' | jq -c -r ". as \$val | {\"$url\": \$val}" | jq -s add > Etag.json
         curl -s -O $url
     else
         echo "No update available for $url"
