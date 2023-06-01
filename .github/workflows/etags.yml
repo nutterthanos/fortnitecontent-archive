@@ -1,6 +1,11 @@
 name: Check Fortnite Content
 
 on:
+  push:
+    branches:
+      - master
+
+on:
   schedule:
     - cron: '0 */6 * * *'
 
