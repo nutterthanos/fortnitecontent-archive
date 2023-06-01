@@ -18,3 +18,12 @@ jobs:
 
       - name: Run Archive script
         run: bash Archive.sh
+
+             # Add and commit changes
+             git config --local user.email "action@github.com"
+             git config --local user.name "GitHub Action"
+             git add .
+             git commit -m "Updated content files"
+ 
+             # Push changes
+             git push
