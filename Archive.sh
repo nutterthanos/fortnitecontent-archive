@@ -4,15 +4,14 @@
 compare_etag() {
     local url=$1
     local etag=$2
-    local stored_etag=$(cat Etag.json | jq -r ".$url")
-
-    echo "URL: $url"
-    echo "ETag: $etag"
-    echo "Stored ETag: $stored_etag"
+    local stored_etag=$(jq -r ".$url" Etag.json)
 
     if [[ "$etag" != "$stored_etag" ]]; then
         echo "Downloading $url..."
-        curl -sI $url | grep -i "etag" | awk -F'"' '{print $2}' | jq -R '.' | jq -c -r ". as \$val | {\"$url\": \$val}" | jq -s add > Etag.json
+        curl -sI $url | grep -i "etag" | awk -F'"' '{print $2}' | jq -R '.' | jq -c -r ". as \$val | {\"$url\": \$val}" > temp.json
+        jq --arg url "$url" --argjson val "$(cat temp.json)" '.[$url] = $val' Etag.json > temp2.json
+        mv temp2.json Etag.json
+        rm temp.json
         curl -s -O $url
     else
         echo "No update available for $url"
@@ -61,11 +60,22 @@ urls=(
     "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/tournamentinformation"
 )
 
+# Create an empty Etag.json file if it doesn't exist
+if [[ ! -f "Etag.json" ]]; then
+    echo "{}" > Etag.json
+fi
+
 # Iterate through the URLs
 for url in "${urls[@]}"; do
     etag=$(curl -sI $url | grep -i "etag" | awk -F'"' '{print $2}')
-    if [[ ! -f "Etag.json" ]]; then
-        echo "{}" > Etag.json
-    fi
     compare_etag $url $etag
 done
+
+# Add and commit changes
+git config --local user.email "action@github.com"
+git config --local user.name "GitHub Action"
+git add Etag.json
+git commit -m "Updated Etag values"
+
+# Push changes
+git push origin ${{ github.ref }}
