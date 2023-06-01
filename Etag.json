@@ -1,3 +1,116 @@
 {
-  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/tournamentinformation": "1dca9e-LVq5IQTzcJNfNej9jAs1h5EUVyY"
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/tournamentinformation": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/tournamentinformation": "1dca9e-LVq5IQTzcJNfNej9jAs1h5EUVyY"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game": "1a9061-n/vYDGwmjZ0NV+H8r7SnoLcF2mo"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/athenamessage": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/athenamessage": "1b4-8ur+dPA/iqkfSujEkqC3NYXsu8U"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/battlepassaboutmessages": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/battlepassaboutmessages": "814-QaiXov85d2LqFPEMuVFCjBS1c6Y"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/battlepasspurchase": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/battlepasspurchase": "750-BPfta9E/oPCzqClHhgcPaLjGoHk"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/battleroyalenews": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/battleroyalenews": "a3e-cmkELVjoDhrt/Wr9+LieDHAMXZM"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/battleroyalenewsv2": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/battleroyalenewsv2": "117-W1p7szB6Rs2mg6AUQe4CE1Lb8co"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/comics": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/comics": "5dd2-SYtMvx0o/wrGbBaDFpvA5AC9Xp4"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/creative-ads": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/creative-ads": "f0-uJiOyO5JIpJnvPP4rai4nxPsHSY"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/creative-features": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/creative-features": "ec-L7EFVvYW/Av6IdIxvcWrl71jAJc"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/creativenews": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/creativenews": "c42-mKskWbHIu1gqLXPXSt8zudJMfK0"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/creativenewsv2": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/creativenewsv2": "122-J6qS6qxFsC6KF0+E6hdfLNWITng"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/crewscreendata": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/crewscreendata": "5ddb-mj9U4ayPoWG7Zfq/9YU/tkU0zw0"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/dynamicbackgrounds": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/dynamicbackgrounds": "1fa-+gVyxNUQHZdvYA816h7ts9bEPfI"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/emergencynotice": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/emergencynotice": "283-DYg51ciw7l55SYJntSUeAb05dQM"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/emergencynoticev2": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/emergencynoticev2": "116-8fB00JsU+FcVecLlGUdggQTpOW8"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/eventscreens": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/eventscreens": "1fe1-bZ8DBGQYqZMp7MIrl3EJHrVxCYM"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/koreancafe": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/koreancafe": "1d5-05bYkCKEqGgG3ZyEOmZoz0FDdg8"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/leaderboardinformation": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/leaderboardinformation": "3f80-QlBAG2HlSxYS66O/qinsCKVwqqM"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/lobby": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/lobby": "15b-RI3UAM5D3hs83LeuySspM88iWd0"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/loginmessage": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/loginmessage": "134-jn34410xeydFk6hcwHXxlstlDQY"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/media-events": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/media-events": "2ef-DGkkFDfbxdx8o8m6zRyaGW73gAc"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/media-events-v2": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/media-events-v2": "5de-Ix/7lgQ+JLOfW8gsiL/dH4KsXv8"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/platformpurchasemessaging": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/platformpurchasemessaging": "957-lInkqIeLVvj5AndLafQismgNXQ4"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/playersurvey": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/playersurvey": "38b27-4no2ieqArBb6OurV7reEDy9k8KM"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/playersurveyv2": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/playersurveyv2": "dc10-9ha74+I39wDmBzH3zZlXT41OvLc"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/playlistinformation": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/playlistinformation": "32f3a-oixD6pwnvMUmviRcUsMOiHyiCrg"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/radio-stations": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/radio-stations": "578-KQT0oXiX6T/Cdoy1CpL4LHCeU6k"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/savetheworldnews": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/savetheworldnews": "5f1-frDpO5qumfreT4FLzsf/KMV0FJ4"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/scoringrulesinformation": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/scoringrulesinformation": "1c50-iaP4AnPcWjSu3Ysnzs6upOwnN0s"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/shop-carousel": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/shop-carousel": "10b-8xrQ/DxajMFBqn0x4ooj7P8PIwI"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/shop-sections": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/shop-sections": "173e2-UHVefFqGjzRfWHvLW2I9PEwsLEk"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/socialevents": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/socialevents": "16b-s9VhjA3V7TV4/SL5lPf4VDpKf6k"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/specialoffervideo": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/specialoffervideo": "1a6-6xEQ5MUfA5iQTByzYVYKy1IIDNw"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/subgameinfo": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/subgameinfo": "459-tyBWEqynH8Fs/VtDY2MdkxzS4+0"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/subgameselectdata": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/subgameselectdata": "7aa-BWpuhwckfdv0U26rFGUlzFgmDtc"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/subscription": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/subscription": "2914-xuHVmSJ4NFsiXcPfDU9nvE4hvgA"
+  },
+  "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/survivalmessage": {
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/survivalmessage": "209-x/cVSiyDwA4Xk+7tYTXC3tOXRUY"
+  }
 }
