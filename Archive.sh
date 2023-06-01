@@ -5,6 +5,9 @@ compare_etag() {
     local url=$1
     local etag=$2
     local stored_etag=$(jq -r ".$url" Etag.json)
+    echo "URL: $url"
+    echo "ETag: $etag"
+    echo "Stored ETag: $stored_etag"
 
     if [[ "$etag" != "$stored_etag" ]]; then
         echo "Downloading $url..."
