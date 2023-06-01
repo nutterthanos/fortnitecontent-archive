@@ -70,12 +70,3 @@ for url in "${urls[@]}"; do
     etag=$(curl -sI $url | grep -i "etag" | awk -F'"' '{print $2}')
     compare_etag $url $etag
 done
-
-# Add and commit changes
-git config --local user.email "action@github.com"
-git config --local user.name "GitHub Action"
-git add Etag.json
-git commit -m "Updated Etag values"
-
-# Push changes
-git push origin ${{ github.ref }}
