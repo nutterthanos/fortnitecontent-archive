@@ -4,12 +4,12 @@
 compare_etag() {
     local url=$1
     local etag=$2
-    local stored_etag=$(jq -r ".$url" Etag.json)
+    local stored_etag=$(grep -Po "\"$url\":\s*\"\K[^\"]+" Etag.json)
 
     if [[ "$etag" != "$stored_etag" ]]; then
         echo "Downloading $url..."
         new_etag=$(curl -sI "$url" | grep -i "etag" | awk -F'"' '{print $2}')
-        sed -i "s/\(\"\)$url\(\":\)[^,}]\+\(,\)/\1$url\2\"$new_etag\"\3/" Etag.json
+        sed -i "s/\"$url\":\s*\"[^\"]*\"/\"$url\": \"$new_etag\"/" Etag.json
         curl -s -O "$url"
     else
         echo "No update available for $url"
