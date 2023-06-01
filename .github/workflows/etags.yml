@@ -3,6 +3,7 @@ name: Check Fortnite Content
 on:
   schedule:
     - cron: "*/5 * * * *"
+  workflow_dispatch:
 
 jobs:
   Archive:
@@ -10,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3.5.2
 
       - name: Run Archive script
         run: |
