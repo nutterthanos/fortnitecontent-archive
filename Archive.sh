@@ -8,7 +8,8 @@ compare_etag() {
 
     if [[ "$etag" != "$stored_etag" ]]; then
         echo "Downloading $url..."
-        curl -sI $url | grep -i "etag" | awk -F'"' '{print $2}' | jq -R '.' | jq -c -r ". as \$val | {\"$url\": \$val}" > temp.json
+        new_etag=$(curl -sI $url | grep -i "etag" | awk -F'"' '{print $2}')
+        echo "{\"$url\": \"$new_etag\"}" > temp.json
         jq --arg url "$url" --argjson val "$(cat temp.json)" '.[$url] = $val' Etag.json > temp2.json
         mv temp2.json Etag.json
         rm temp.json
