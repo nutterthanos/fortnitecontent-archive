@@ -83,6 +83,9 @@ if [[ ! -f "Etag.json" ]]; then
     echo "{}" > Etag.json
 fi
 
+# Clear the existing content of README.md
+> README.md
+
 # Iterate through the URLs
 for url in "${urls[@]}"; do
     etag=$(curl -sI $url | grep -i "etag" | awk -F'"' '{print $2}')
