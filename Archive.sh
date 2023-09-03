@@ -88,6 +88,8 @@ echo "Fortnite-Content Archive" > README.md
 echo "" >> README.md
 echo "Archiving https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game and all respective pages" >> README.md
 echo "" >> README.md
+echo "Fortnite-Content Files and SHA1 Hashes:" >> README.md
+echo "" >> README.md
 
 # Iterate through the URLs
 for url in "${urls[@]}"; do
