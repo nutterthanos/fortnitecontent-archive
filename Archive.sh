@@ -76,7 +76,7 @@ calculate_sha1() {
 }
 
 # List of files/directories to exclude
-excluded_files=("Etag.json" "README.md" ".git" ".github" "Archive.sh")
+excluded_files=("Etag.json" "README.md" ".git" ".github" ".github/workflows" ".github/workflows/etags.yml" "Archive.sh")
 
 # Create an empty Etag.json file if it doesn't exist
 if [[ ! -f "Etag.json" ]]; then
