@@ -68,10 +68,29 @@ urls=(
     "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/tournamentinformation"
 )
 
+# Function to calculate SHA-1 hash of a file in the latest commit
+calculate_sha1() {
+    local file=$1
+    local sha1_hash=$(git log -n 1 --pretty=format:"%H" -- "$file" | xargs -I{} git cat-file -p {}:"$file" | sha1sum | awk '{ print $1 }')
+    echo "$sha1_hash"
+}
+
+# List of files/directories to exclude
+excluded_files=("Etag.json" "README.md" ".git" ".github" "Archive.sh")
+
 # Create an empty Etag.json file if it doesn't exist
 if [[ ! -f "Etag.json" ]]; then
     echo "{}" > Etag.json
 fi
+
+# Iterate through the files in the repository
+for file in $(git ls-files); do
+    # Check if the file is not in the excluded list
+    if ! [[ " ${excluded_files[@]} " =~ " $file " ]]; then
+        sha1=$(calculate_sha1 "$file")
+        echo "$file | $sha1"
+    fi
+done
 
 # Iterate through the URLs
 for url in "${urls[@]}"; do
