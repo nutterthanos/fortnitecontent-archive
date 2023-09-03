@@ -1,4 +1,3 @@
-tournamentinformation | 7a7487f7b03cf773d9c33a1374ee589c461de04c
 athenamessage | f2eafe74f03f8aa91f4ae8c492a0b73585ecbbc5
 battlepassaboutmessages | 41a897a2ff397762ea14f10cb951428c14b573a6
 battlepasspurchase | f55a3d201f4377671781cccafd83c9a6433e8702
