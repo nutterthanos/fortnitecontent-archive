@@ -92,11 +92,12 @@ for url in "${urls[@]}"; do
     compare_etag $url $etag
 done
 
-# Iterate through the files in the repository
+# Iterate through the files in the repository and append to README.md
 for file in $(git ls-files); do
     # Check if the file is not in the excluded list
     if ! [[ " ${excluded_files[@]} " =~ " $file " ]]; then
         sha1=$(calculate_sha1 "$file")
         echo "$file | $sha1" >> README.md
+        echo "" >> README.md  # Add a newline character after each entry
     fi
 done
