@@ -94,6 +94,6 @@ for file in $(git ls-files); do
     # Check if the file is not in the excluded list
     if ! [[ " ${excluded_files[@]} " =~ " $file " ]]; then
         sha1=$(calculate_sha1 "$file")
-        echo "$file | $sha1"
+        echo "$file | $sha1" > README.md
     fi
-done >> README.md
+done
