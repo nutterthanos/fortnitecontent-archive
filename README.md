@@ -1,3 +1,7 @@
+Fortnite-Content Archive
+
+Archiving https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game and all respective pages
+
 athenamessage | f2eafe74f03f8aa91f4ae8c492a0b73585ecbbc5
 
 battlepassaboutmessages | 41a897a2ff397762ea14f10cb951428c14b573a6
