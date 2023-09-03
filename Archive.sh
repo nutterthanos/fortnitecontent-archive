@@ -83,6 +83,12 @@ if [[ ! -f "Etag.json" ]]; then
     echo "{}" > Etag.json
 fi
 
+# Iterate through the URLs
+for url in "${urls[@]}"; do
+    etag=$(curl -sI $url | grep -i "etag" | awk -F'"' '{print $2}')
+    compare_etag $url $etag
+done
+
 # Iterate through the files in the repository
 for file in $(git ls-files); do
     # Check if the file is not in the excluded list
@@ -90,10 +96,4 @@ for file in $(git ls-files); do
         sha1=$(calculate_sha1 "$file")
         echo "$file | $sha1"
     fi
-done
-
-# Iterate through the URLs
-for url in "${urls[@]}"; do
-    etag=$(curl -sI $url | grep -i "etag" | awk -F'"' '{print $2}')
-    compare_etag $url $etag
-done
+done >> README.md
