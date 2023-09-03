@@ -83,8 +83,11 @@ if [[ ! -f "Etag.json" ]]; then
     echo "{}" > Etag.json
 fi
 
-# Clear the existing content of README.md
-> README.md
+# Clear the existing content of README.md and add header information to README.md
+echo "Fortnite-Content Archive" > README.md
+echo "" >> README.md
+echo "Archiving https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game and all respective pages" >> README.md
+echo "" >> README.md
 
 # Iterate through the URLs
 for url in "${urls[@]}"; do
