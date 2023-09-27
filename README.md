@@ -34,7 +34,7 @@ emergencynoticev2 | d8dccdd38fcfcd78d19f445230eab7028bbb5cda
 
 eventscreens | 2a9530cc03663b31535912df24f0df5e4f411054
 
-fortnite-game | 02afae2cc3f4715d68ce371b7324fdba695565ed
+fortnite-game | 4ff7d1ff1b0796cdb8c5bd1e06fa2cc3acc3b6f5
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -68,7 +68,7 @@ shop-sections | aa8e8ecbe4830ccee01bb2758385428011cead11
 
 socialevents | b3d5618c0dd5ed3578fd22f994f7f8543a4a7fa9
 
-specialoffervideo | 76155c73ae3a1a0ca56f48c660c5d53f78089b28
+specialoffervideo | 9436483a1a648b921bb218d367e99bde421e1ddb
 
 subgameinfo | b7205612aca71fc16cfd5b4363631d931cd2e3ed
 
