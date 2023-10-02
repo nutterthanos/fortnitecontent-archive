@@ -34,7 +34,7 @@ emergencynoticev2 | d8dccdd38fcfcd78d19f445230eab7028bbb5cda
 
 eventscreens | 2a9530cc03663b31535912df24f0df5e4f411054
 
-fortnite-game | c1c8e4f499e9b5be2b4aac9de696da331d2757a9
+fortnite-game | 41430868b50f63a0ef657067c3fcb653a6dee254
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -64,7 +64,7 @@ scoringrulesinformation | 3b7b002e9337bf8c894b72fd10d42d3c1a403f57
 
 shop-carousel | f31ad0fc3c5a8cc141aa7d31e28a23ecff0f2302
 
-shop-sections | a5933d1e4167490dbd23b423c5b38f23ccb43ef5
+shop-sections | 476da7826acfcba7b31950e4bbf6261396ddb5f7
 
 socialevents | b3d5618c0dd5ed3578fd22f994f7f8543a4a7fa9
 
