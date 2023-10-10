@@ -24,17 +24,17 @@ creativenews | 98ab2459b1c8bb582a2d73d74adf33b9d24c7cad
 
 creativenewsv2 | 27aa92eaac45b02e8a174f84ea175f2cd5884e78
 
-crewscreendata | ad8b75f47b0b86e6acb87553adf0dd440356bce5
+crewscreendata | 0a1ec369eeed58e2306062a362811eb979807fa8
 
 dynamicbackgrounds | 794746ddad9b98bac45f8328a5021e6543c17095
 
 emergencynotice | 0d8839d5c8b0ee5e79498267b5251e01bd397503
 
-emergencynoticev2 | 45f304a69aa44618ec134d19fd9903d4f44d5e88
+emergencynoticev2 | 9148f8f37310727c229edba88698ff74437008a2
 
 eventscreens | 2a9530cc03663b31535912df24f0df5e4f411054
 
-fortnite-game | 2f86cd9fbb0e4edcc1176f476ecd7b9d6c26680a
+fortnite-game | 7b4367d74859da6ccc46bb9548a7cdca49e6bf8d
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -64,7 +64,7 @@ scoringrulesinformation | 3b7b002e9337bf8c894b72fd10d42d3c1a403f57
 
 shop-carousel | f31ad0fc3c5a8cc141aa7d31e28a23ecff0f2302
 
-shop-sections | fa7f9bbc5b23674fc3cfdc18a862e2e5dfd1d216
+shop-sections | 8db34b8b3eead3b3a260557ff032c1eddcd998fa
 
 socialevents | b3d5618c0dd5ed3578fd22f994f7f8543a4a7fa9
 
