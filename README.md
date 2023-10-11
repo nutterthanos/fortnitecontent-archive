@@ -26,7 +26,7 @@ creativenewsv2 | 27aa92eaac45b02e8a174f84ea175f2cd5884e78
 
 crewscreendata | 0a1ec369eeed58e2306062a362811eb979807fa8
 
-dynamicbackgrounds | 7851056d2d5929c924ab5c15efb6256ea067e78e
+dynamicbackgrounds | 59806bab0567280fcfd16d679dc36560067ef62a
 
 emergencynotice | 0d8839d5c8b0ee5e79498267b5251e01bd397503
 
@@ -34,7 +34,7 @@ emergencynoticev2 | 9148f8f37310727c229edba88698ff74437008a2
 
 eventscreens | 2a9530cc03663b31535912df24f0df5e4f411054
 
-fortnite-game | 3e1c45d0af709b70899c0a2445e47a6c061b65d5
+fortnite-game | 85d2c70aa36bc3449eff4fd1158cabc788861045
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -52,7 +52,7 @@ platformpurchasemessaging | 9489e4a8878b56f8f902774b69f422b2680d5d0e
 
 playersurvey | e27a3689ea80ac16fa3aead5eeb7840f2f64f0a3
 
-playersurveyv2 | 39455252610a1e6f669be4f2146195e52eaa6351
+playersurveyv2 | baccaf01dc7da20968239d86ad7a06e4a541524d
 
 playlistinformation | 4b7c8754e2aa1abaa0370603383cf118deb4a650
 
@@ -68,7 +68,7 @@ shop-sections | 6bd0b7af7167c6426ec3efbbb296faeac0318efa
 
 socialevents | b3d5618c0dd5ed3578fd22f994f7f8543a4a7fa9
 
-specialoffervideo | 9436483a1a648b921bb218d367e99bde421e1ddb
+specialoffervideo | 811f2a58997c4c605080e062115e03e5c43d4c61
 
 subgameinfo | b7205612aca71fc16cfd5b4363631d931cd2e3ed
 
