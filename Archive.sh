@@ -66,6 +66,7 @@ urls=(
     "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/subscription"
     "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/survivalmessage"
     "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/tournamentinformation"
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/mp-item-shop"
 )
 
 # Function to calculate SHA-1 hash of a file in the latest commit
