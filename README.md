@@ -34,7 +34,7 @@ emergencynoticev2 | e9695bb92b2987335796742d4da68fd89965a508
 
 eventscreens | 2a9530cc03663b31535912df24f0df5e4f411054
 
-fortnite-game | c20f1d35f91eee3548d29aa93ed79066c14ec1a7
+fortnite-game | e3a6b9a510b0ed517624821dce85671a73195b38
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -62,7 +62,7 @@ radio-stations | 7dfd8cb4d7f844dd51dae1e7c43b1aacf9aed521
 
 savetheworldnews | 97d0c0b3e041b5431ddc8596456cae34a0906269
 
-scoringrulesinformation | 0e1267b5329c145d1b369856fe5a0c147d2660c1
+scoringrulesinformation | 46955c4f635d1260ac216e8cb0a3b277e24787a5
 
 shop-carousel | f31ad0fc3c5a8cc141aa7d31e28a23ecff0f2302
 
