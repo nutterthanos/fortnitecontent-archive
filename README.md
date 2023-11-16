@@ -8,7 +8,7 @@ athenamessage | f2eafe74f03f8aa91f4ae8c492a0b73585ecbbc5
 
 battlepassaboutmessages | 41a897a2ff397762ea14f10cb951428c14b573a6
 
-battlepasspurchase | acbdef00da6511c20dcf486fca3e415ca11a9a04
+battlepasspurchase | 795db7412a132521a8c29c574aea34bf01b6715f
 
 battleroyalenews | 7269042d58e80e1aedfd6afdf8b89e0c700c5d93
 
@@ -34,7 +34,7 @@ emergencynoticev2 | 2fa2f0fa3cfc47ed96819e3f1b042ec85d1ea86c
 
 eventscreens | 2a9530cc03663b31535912df24f0df5e4f411054
 
-fortnite-game | ab057ec703f4f6816d21b6221d2129e47d2de5d8
+fortnite-game | f13567423cce7ef3a8f959539c21fa7cdab8a422
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -54,7 +54,7 @@ platformpurchasemessaging | 9489e4a8878b56f8f902774b69f422b2680d5d0e
 
 playersurvey | e27a3689ea80ac16fa3aead5eeb7840f2f64f0a3
 
-playersurveyv2 | 5c04bd3c66c668030a50f8e1a61ac5a20f59a197
+playersurveyv2 | 7b48eaf04902a30bae34690e194662b6e9dbc1dc
 
 playlistinformation | 4b7c8754e2aa1abaa0370603383cf118deb4a650
 
