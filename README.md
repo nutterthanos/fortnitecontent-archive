@@ -30,11 +30,11 @@ dynamicbackgrounds | d5a14d5a4dcca7bf878de848147a70d0ab6dcbca
 
 emergencynotice | 0d8839d5c8b0ee5e79498267b5251e01bd397503
 
-emergencynoticev2 | 3333513aeb8a655178aa520b8ed9b21a0ad7ad90
+emergencynoticev2 | 2c79e693690842707b10a9d2923e0bf0474fdf23
 
 eventscreens | 2a9530cc03663b31535912df24f0df5e4f411054
 
-fortnite-game | 1546387371340394e80d68648091c40232e61de9
+fortnite-game | 7cc5ea6a02837fa8cc1dd368e46487e8e4bf61ce
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
