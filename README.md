@@ -30,11 +30,11 @@ dynamicbackgrounds | 64e645d17b526738fcf701c278ad386ca64da844
 
 emergencynotice | 0d8839d5c8b0ee5e79498267b5251e01bd397503
 
-emergencynoticev2 | 17b9a50e12042b12cea86161e3b624b2d7648c2e
+emergencynoticev2 | 0aa549840952a12f8ca6c06a44ed4c0d847086ea
 
 eventscreens | 2a9530cc03663b31535912df24f0df5e4f411054
 
-fortnite-game | 1f7a3c25018a448de50d879a215e7ad1219cd390
+fortnite-game | e117da52446d8c5d53cadb8d1319e8f359d36094
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -48,7 +48,7 @@ media-events | 0c69241437dbc5dc7ca3c9bacd1c9a196ef78007
 
 media-events-v2 | 6b76efc52b5dc4f82a1a487920f2a4e266ffd1dd
 
-mp-item-shop | 91fd52447d5995cb40d8c18ec7ee036ae2844bf0
+mp-item-shop | 21407dd95496447ae6902af7b676312926eaff5a
 
 platformpurchasemessaging | 9489e4a8878b56f8f902774b69f422b2680d5d0e
 
