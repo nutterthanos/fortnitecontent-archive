@@ -60,6 +60,7 @@ urls=(
     "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/shop-carousel"
     "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/shop-sections"
     "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/socialevents"
+    "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/spark-tracks"
     "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/specialoffervideo"
     "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/subgameinfo"
     "https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/subgameselectdata"
