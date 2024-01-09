@@ -8,7 +8,7 @@ athenamessage | f2eafe74f03f8aa91f4ae8c492a0b73585ecbbc5
 
 battlepassaboutmessages | 41a897a2ff397762ea14f10cb951428c14b573a6
 
-battlepasspurchase | 2014dc1814f25690d314a24c566ae0c098de682a
+battlepasspurchase | ad5ffcbb445a1ede54bfc00a1d5b4ce146c23fd6
 
 battleroyalenews | 7269042d58e80e1aedfd6afdf8b89e0c700c5d93
 
@@ -34,7 +34,7 @@ emergencynoticev2 | b5ef7d8a47bc7c308689d40f245aea7d1a3f12f7
 
 eventscreens | 84fe3c06eabfb5e2f2a08d0859f0872ef76356a4
 
-fortnite-game | 2fe30a76ed7a51e205b10246dd6e5ebbb57089ce
+fortnite-game | 0c71f864f2007cd5bcaa3dab20b40183466541c7
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -54,7 +54,7 @@ platformpurchasemessaging | 9489e4a8878b56f8f902774b69f422b2680d5d0e
 
 playersurvey | e27a3689ea80ac16fa3aead5eeb7840f2f64f0a3
 
-playersurveyv2 | c00ac9c730be7c49da7c21d942386a1376c9b84c
+playersurveyv2 | f6c396e193b98b8dfc101e51cddcce0f15abd81f
 
 playlistinformation | 7e3355a3d4443f8a4bebb9a3fbd0461a245c4803
 
@@ -70,7 +70,7 @@ shop-sections | f9ba332c364e21f8a38b7f79d82c612af867e4ef
 
 socialevents | b3d5618c0dd5ed3578fd22f994f7f8543a4a7fa9
 
-spark-tracks | b57a7666f8ed039182a07d8ac0161679e940f3b2
+spark-tracks | afb0741b3d8d66d4e521878d18022a49d345653f
 
 specialoffervideo | 811f2a58997c4c605080e062115e03e5c43d4c61
 
