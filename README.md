@@ -28,13 +28,13 @@ crewscreendata | 570401530ea1ba80d48cb1f657b7101ac0f83c00
 
 dynamicbackgrounds | 255fc01216c609739811521b54fc5004f50938a8
 
-emergencynotice | 0d8839d5c8b0ee5e79498267b5251e01bd397503
+emergencynotice | 324db179e2813f8292276ef4bc535d499c27f0bc
 
 emergencynoticev2 | e3dc4523e63aaee451799218a3d03a43e02c66a0
 
 eventscreens | 84fe3c06eabfb5e2f2a08d0859f0872ef76356a4
 
-fortnite-game | caacbb8df1b4f404eb125a171202b572c625e898
+fortnite-game | 8c2f9e37ec81434e108798fe80be16a9fa455ae0
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
