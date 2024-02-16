@@ -46,7 +46,7 @@ loginmessage | 8e7df8e35d317b274593a85cc075f196cb650d06
 
 media-events | 0c69241437dbc5dc7ca3c9bacd1c9a196ef78007
 
-media-events-v2 | 6b76efc52b5dc4f82a1a487920f2a4e266ffd1dd
+media-events-v2 | 58afe55b889a93918142ed93326ae7bbb3e56282
 
 mp-item-shop | c2858df8d70b967e2b428aa0881db3cd83fb56b5
 
