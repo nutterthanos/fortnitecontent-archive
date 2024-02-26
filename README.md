@@ -26,7 +26,7 @@ creativenewsv2 | 27aa92eaac45b02e8a174f84ea175f2cd5884e78
 
 crewscreendata | ebf0ea44f7b3b485669c6fdba75daba6c953b459
 
-dynamicbackgrounds | bcc32a9eecc2058fdbcebfe7d415121b9ba2e513
+dynamicbackgrounds | e80ced8cd54aeaeabf04dc6fc08f2ea6651dbaea
 
 emergencynotice | 970d9d2a47faf43808516462f6e477efba5f9ad2
 
@@ -34,7 +34,7 @@ emergencynoticev2 | 514e73409b9799ba809f62cb32a491498a457eac
 
 eventscreens | 6e1320d3d912e2b8478e5d9648946dcd7c8b4009
 
-fortnite-game | c88caa6c65fdce37f80342b929ecb648d7e24b94
+fortnite-game | 3331e7251d6d733c9a34ee7bc5ba6c83c687096a
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
