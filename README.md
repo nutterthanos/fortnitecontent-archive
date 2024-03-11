@@ -34,7 +34,7 @@ emergencynoticev2 | 6eb54aa3e0f12ec41f95d3f215e737642c5e5216
 
 eventscreens | 6e1320d3d912e2b8478e5d9648946dcd7c8b4009
 
-fortnite-game | cb67358a01e488545be940d8c17eb7d59cf86c87
+fortnite-game | ce17d575e5ab9e2e531edaaf3652223b639d424b
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -54,7 +54,7 @@ platformpurchasemessaging | 9489e4a8878b56f8f902774b69f422b2680d5d0e
 
 playersurvey | e27a3689ea80ac16fa3aead5eeb7840f2f64f0a3
 
-playersurveyv2 | 9c469ff6e59fce3a47bc8c777e5ead9f17c85c26
+playersurveyv2 | ffd125fe49917618df63d8a76bd2156c5be7e72c
 
 playlistinformation | 7e3355a3d4443f8a4bebb9a3fbd0461a245c4803
 
@@ -70,7 +70,7 @@ shop-sections | f9ba332c364e21f8a38b7f79d82c612af867e4ef
 
 socialevents | b3d5618c0dd5ed3578fd22f994f7f8543a4a7fa9
 
-spark-tracks | 792d1156165b5fd23b83c0fff9a635e57750d4f8
+spark-tracks | 15aea56b66b91ee8fee0df9f8d680d7f5595d256
 
 specialoffervideo | 811f2a58997c4c605080e062115e03e5c43d4c61
 
@@ -82,5 +82,5 @@ subscription | c6e1d5992278345b225dc3df0d4f67bc4e21be00
 
 survivalmessage | c7f7154a2c83c00e1793eeed6135c2ded3974546
 
-tournamentinformation | f399fd4048a191fd47d87ca0c919633e2c84aa9b
+tournamentinformation | a3bc0babe29776f23068281a0763fbb05fe2ff24
 
