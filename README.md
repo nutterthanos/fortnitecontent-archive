@@ -34,7 +34,7 @@ emergencynoticev2 | 6eb54aa3e0f12ec41f95d3f215e737642c5e5216
 
 eventscreens | 6e1320d3d912e2b8478e5d9648946dcd7c8b4009
 
-fortnite-game | 6a712ffeb3b5812a4486ae0581303411fb024195
+fortnite-game | 406cad958730d51493f7252bdaef710946059a97
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -82,5 +82,5 @@ subscription | c6e1d5992278345b225dc3df0d4f67bc4e21be00
 
 survivalmessage | c7f7154a2c83c00e1793eeed6135c2ded3974546
 
-tournamentinformation | 26482cdc2bbc01738e35cf4babe6623b628bf63c
+tournamentinformation | 887ab0180070c812b7979986ec32af295822e4be
 
