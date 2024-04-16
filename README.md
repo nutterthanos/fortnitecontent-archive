@@ -34,7 +34,7 @@ emergencynoticev2 | 35cc1f3de52834b24ce9841b585521025bddcdca
 
 eventscreens | b0a08a033e0a827a2298b3ddacb981a56f98b85e
 
-fortnite-game | c655f608ebebf9801254b6c78d2ec398bd2e3bf9
+fortnite-game | e96637bf7d98ce57c93132f98fd1b4f06674ebef
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
