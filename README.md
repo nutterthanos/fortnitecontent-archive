@@ -34,7 +34,7 @@ emergencynoticev2 | 941d20e9bdb2c3db3374a5ce176a27ad197ef37f
 
 eventscreens | 6ea02ef1b78e60bae10981923f40cc70dd353848
 
-fortnite-game | 3e11421d7cf8205a5d7fde04ea6e43de9ab935c7
+fortnite-game | 7fcc6080d66732a9f9e80f643d28698287ff99bd
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -54,7 +54,7 @@ platformpurchasemessaging | 9489e4a8878b56f8f902774b69f422b2680d5d0e
 
 playersurvey | e27a3689ea80ac16fa3aead5eeb7840f2f64f0a3
 
-playersurveyv2 | 5f7bfc5260549b2ec1f2c6b5c0900f0d34cf9305
+playersurveyv2 | 107d78ee495e47e8e676c8dcd2f9819a213e6e15
 
 playlistinformation | 7e3355a3d4443f8a4bebb9a3fbd0461a245c4803
 
@@ -70,7 +70,7 @@ shop-sections | f9ba332c364e21f8a38b7f79d82c612af867e4ef
 
 socialevents | b3d5618c0dd5ed3578fd22f994f7f8543a4a7fa9
 
-spark-tracks | 5dfb008b2599de77c74830b5530b94a2ef7922f5
+spark-tracks | ed2612215aff755817383a04596a961a46715bdd
 
 specialoffervideo | 811f2a58997c4c605080e062115e03e5c43d4c61
 
