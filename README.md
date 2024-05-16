@@ -34,7 +34,7 @@ emergencynoticev2 | 941d20e9bdb2c3db3374a5ce176a27ad197ef37f
 
 eventscreens | 7c420de1e2d8e381517e689b9113f5919d3a7398
 
-fortnite-game | 028a2c2c463f168e692745b8608e58ad71392d29
+fortnite-game | 790acf355d18ca11ae4583309c3191da9db72e08
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -54,7 +54,7 @@ platformpurchasemessaging | 9489e4a8878b56f8f902774b69f422b2680d5d0e
 
 playersurvey | e27a3689ea80ac16fa3aead5eeb7840f2f64f0a3
 
-playersurveyv2 | 9b816f0375702934a3df6f0a9d2bba7048458e91
+playersurveyv2 | 3c0859d57ef54b242b00d4dab39f765bc65a3c62
 
 playlistinformation | 7e3355a3d4443f8a4bebb9a3fbd0461a245c4803
 
