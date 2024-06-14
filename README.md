@@ -30,11 +30,11 @@ dynamicbackgrounds | 09cec540c5d4825959bac2fd909e64974ecc82bf
 
 emergencynotice | 970d9d2a47faf43808516462f6e477efba5f9ad2
 
-emergencynoticev2 | 9accfa3c11be4038e70339c4105614b03c1b7bc8
+emergencynoticev2 | b21d4b52f91c2d8912611ca98bbd51f126bdb8b7
 
 eventscreens | 8cc4c40ff1e9e6dd7507b3489450dec06cba51f5
 
-fortnite-game | f82dd0299a3e28dd68d7de5ce972dbdc6d6b1965
+fortnite-game | df232c4748bdc58cbad58b124372f4cad314f9fe
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -48,13 +48,13 @@ media-events | 0c69241437dbc5dc7ca3c9bacd1c9a196ef78007
 
 media-events-v2 | 6b76efc52b5dc4f82a1a487920f2a4e266ffd1dd
 
-mp-item-shop | 62da3e7bf16687c90e3e9b762861857a25fb308a
+mp-item-shop | 96484907799dce1b4734c658af11465868ca64fe
 
 platformpurchasemessaging | 9489e4a8878b56f8f902774b69f422b2680d5d0e
 
 playersurvey | e27a3689ea80ac16fa3aead5eeb7840f2f64f0a3
 
-playersurveyv2 | 05c1a5d124f8dc5b8eaf1361ec34124df6236469
+playersurveyv2 | 6e68501f580c2bf441f3c294482cb7c5b25ebbe0
 
 playlistinformation | 7e3355a3d4443f8a4bebb9a3fbd0461a245c4803
 
