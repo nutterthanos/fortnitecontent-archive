@@ -26,7 +26,7 @@ creativenewsv2 | 27aa92eaac45b02e8a174f84ea175f2cd5884e78
 
 crewscreendata | 286be7fefe4ab26db6c827704b1d3cb657c92c50
 
-dynamicbackgrounds | 770da19b7100a93572e785c6ea94d32b8c645238
+dynamicbackgrounds | 9dc2c8b25ac7f10e64f93cbf760384b3789e84a7
 
 emergencynotice | 970d9d2a47faf43808516462f6e477efba5f9ad2
 
@@ -34,7 +34,7 @@ emergencynoticev2 | 8c04f2a751d02f2adbfdb021c2486d4c80740ce1
 
 eventscreens | 3ca51c4dc7e71bf69c2c826cc923f9d6e583eee4
 
-fortnite-game | 6c63e409604e283ee1aa5318c29f76dca6bbab7b
+fortnite-game | e2392d18d39e049766e84dc3090f94743ed53562
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -48,7 +48,7 @@ media-events | 0c69241437dbc5dc7ca3c9bacd1c9a196ef78007
 
 media-events-v2 | 6b76efc52b5dc4f82a1a487920f2a4e266ffd1dd
 
-mp-item-shop | e5f8a9ca6f060d87aad2069d8f4bdb3fc54253b6
+mp-item-shop | 5201e7903a70e8d0d7559e1a69fb782af519a5d1
 
 platformpurchasemessaging | 9489e4a8878b56f8f902774b69f422b2680d5d0e
 
