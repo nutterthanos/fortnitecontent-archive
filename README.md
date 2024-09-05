@@ -34,7 +34,7 @@ emergencynoticev2 | 97fd99543512d7b0b51fee8b0fa0b0db5d60eddf
 
 eventscreens | 51b265f0ba1399063dc8e5a4d5b92263827e6daf
 
-fortnite-game | 96d7832b737301c197fdcf1c06b4faa45b845f6d
+fortnite-game | 30f1e7c9c744548e3285f4430f49fc0d89e825f3
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -48,7 +48,7 @@ media-events | 0c69241437dbc5dc7ca3c9bacd1c9a196ef78007
 
 media-events-v2 | 6b76efc52b5dc4f82a1a487920f2a4e266ffd1dd
 
-mp-item-shop | 43bf4794b00517b3a7aca99cffd92b7420cc67c7
+mp-item-shop | 8eae9d83368e0db028a3ffedf30f1fb21344cdcf
 
 platformpurchasemessaging | 9489e4a8878b56f8f902774b69f422b2680d5d0e
 
