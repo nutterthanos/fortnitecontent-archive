@@ -8,7 +8,7 @@ athenamessage | f2eafe74f03f8aa91f4ae8c492a0b73585ecbbc5
 
 battlepassaboutmessages | 41a897a2ff397762ea14f10cb951428c14b573a6
 
-battlepasspurchase | f027839cc7a307d64cea74ab2afab95299b5a152
+battlepasspurchase | ee53f58cec350ec43f242b5c5640d59d54be69ee
 
 battleroyalenews | 7269042d58e80e1aedfd6afdf8b89e0c700c5d93
 
@@ -24,7 +24,7 @@ creativenews | 98ab2459b1c8bb582a2d73d74adf33b9d24c7cad
 
 creativenewsv2 | 27aa92eaac45b02e8a174f84ea175f2cd5884e78
 
-crewscreendata | edb7339da95846d09276a4b0e886522aa283ed8f
+crewscreendata | bfd0abd333dd6dbe219ba89f3e4e760ec3657f07
 
 dynamicbackgrounds | f1008fbe821d0b979c5ddddc98ce580134744493
 
@@ -34,7 +34,7 @@ emergencynoticev2 | ac24cba51e50c2688dd30bf2f62433062c1f8568
 
 eventscreens | f4ba5ebc48dbf9280920cdbcd233341080768d1a
 
-fortnite-game | 07d54e0bc13e5eb36e976c3b2609a6c094aa3eee
+fortnite-game | c06fd9a173a8a7d697a10a1e97c21c9e317b2576
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -48,7 +48,7 @@ media-events | 0c69241437dbc5dc7ca3c9bacd1c9a196ef78007
 
 media-events-v2 | 6b76efc52b5dc4f82a1a487920f2a4e266ffd1dd
 
-mp-item-shop | 2cca7ac70fc0e975fa95e8b60577c898ea814ce5
+mp-item-shop | 300df7aada48beda463ec31f78f7cdc5a66bb979
 
 platformpurchasemessaging | 9489e4a8878b56f8f902774b69f422b2680d5d0e
 
