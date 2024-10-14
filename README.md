@@ -32,7 +32,7 @@ emergencynotice | 970d9d2a47faf43808516462f6e477efba5f9ad2
 
 emergencynoticev2 | c6147607aa25c14347ef7497a0edbffaa4bb75a0
 
-eventscreens | 4047d2a929ebb634881d118fbad7fb20f41acd4d
+eventscreens | 50e7570b90b26d085aa1d4be58a9df897e1a6f46
 
 fortnite-game | 578011f3d2f9f2903171754a361bcb119f23f6ef
 
