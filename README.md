@@ -26,7 +26,7 @@ creativenewsv2 | 27aa92eaac45b02e8a174f84ea175f2cd5884e78
 
 crewscreendata | 5a0fb9e10cd4ce89d8375486df6af43d6b44749b
 
-dynamicbackgrounds | 47fc6f0812f95193f753c6f4e648b010f993526c
+dynamicbackgrounds | b487e1e0c01b60a8e56d77f8ba451e71badc1cf2
 
 emergencynotice | 970d9d2a47faf43808516462f6e477efba5f9ad2
 
@@ -34,7 +34,7 @@ emergencynoticev2 | dd41b7103dd23dae85b33341fe2db9ca5291e56e
 
 eventscreens | bc5c9fae4b85508f5ca2c744ff9ebd5bf9aa3f75
 
-fortnite-game | b7ca1e34ef776783fcae8d5678bd58941c96e7fc
+fortnite-game | 27424fd0ffdcc66a69b42b48180f55d681dfc6dd
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -70,7 +70,7 @@ shop-sections | f9ba332c364e21f8a38b7f79d82c612af867e4ef
 
 socialevents | b3d5618c0dd5ed3578fd22f994f7f8543a4a7fa9
 
-spark-tracks | 49d39b2407a2dc73507e9b2c1eb5df251e14105f
+spark-tracks | cf09363b0ecd15703173f218aae5d0ceec85f2b1
 
 specialoffervideo | 811f2a58997c4c605080e062115e03e5c43d4c61
 
