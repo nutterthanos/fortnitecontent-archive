@@ -30,11 +30,11 @@ dynamicbackgrounds | b487e1e0c01b60a8e56d77f8ba451e71badc1cf2
 
 emergencynotice | 970d9d2a47faf43808516462f6e477efba5f9ad2
 
-emergencynoticev2 | 108adbdd9398681efca6bd60fe837ed067ca7de4
+emergencynoticev2 | 296ad17964bdf1fc8acbdacc1ab7f45d327c0798
 
 eventscreens | bc5c9fae4b85508f5ca2c744ff9ebd5bf9aa3f75
 
-fortnite-game | 2341c13901fc548943bc2dd01162ac9a6efae591
+fortnite-game | 4e5aa15144e3422291d23470680aac7cb8d05579
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -54,7 +54,7 @@ platformpurchasemessaging | 9489e4a8878b56f8f902774b69f422b2680d5d0e
 
 playersurvey | e27a3689ea80ac16fa3aead5eeb7840f2f64f0a3
 
-playersurveyv2 | 04d8f4ae3d54a2597fe515226983630ec7911ba9
+playersurveyv2 | fb66ecab518438d4f53fe1064ee9f97d63b63394
 
 playlistinformation | 7e3355a3d4443f8a4bebb9a3fbd0461a245c4803
 
@@ -70,7 +70,7 @@ shop-sections | f9ba332c364e21f8a38b7f79d82c612af867e4ef
 
 socialevents | b3d5618c0dd5ed3578fd22f994f7f8543a4a7fa9
 
-spark-tracks | 26523ce31fb7eeffb254e87cf234d854fdd6abd6
+spark-tracks | a0f65b9f00a21c26e3032a00058c4c91954d0536
 
 specialoffervideo | 811f2a58997c4c605080e062115e03e5c43d4c61
 
