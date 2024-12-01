@@ -26,15 +26,15 @@ creativenewsv2 | 27aa92eaac45b02e8a174f84ea175f2cd5884e78
 
 crewscreendata | a4732bafe2afc2672e3fc50cb45bb9ae8f15d042
 
-dynamicbackgrounds | 8fb41bc182168ab40c90d09d31b7dd95a293adb7
+dynamicbackgrounds | 615feac227783edef65a46dd05827e4519b68398
 
 emergencynotice | 970d9d2a47faf43808516462f6e477efba5f9ad2
 
-emergencynoticev2 | ef8c74e4a477c2bdd6feaa1013a0694fd5861f60
+emergencynoticev2 | 8e8de173a834e9621a7156f2f07f81012bf1ec6f
 
-eventscreens | bc5c9fae4b85508f5ca2c744ff9ebd5bf9aa3f75
+eventscreens | ffdd7853be679b13dd4a9f8d01560d350fc90040
 
-fortnite-game | 457bb15b0868d4ded47d40506f65274d52d01a97
+fortnite-game | 173f399d2ac1e933cb510fdd260a9542764d1844
 
 koreancafe | d396d8902284a86806dd9c843a6668cf4143760f
 
@@ -82,5 +82,5 @@ subscription | c6e1d5992278345b225dc3df0d4f67bc4e21be00
 
 survivalmessage | c7f7154a2c83c00e1793eeed6135c2ded3974546
 
-tournamentinformation | 3eb8b40d9e595182c5f2866b16e82a240be72bbb
+tournamentinformation | 54c21c9185dd7f7405ac600ff795c781f5bb6ffd
 
